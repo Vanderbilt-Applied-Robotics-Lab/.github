@@ -1,4 +1,5 @@
 <img width="940" height="370" alt="Applied Robotics Laboratory Logo White BG" src="https://github.com/user-attachments/assets/3e3c92c2-8ead-497a-9c6f-46f5bd00b7cd" />
+
 The nexus for robotics education at Vanderbilt University
 
 # Robot Control Codes
