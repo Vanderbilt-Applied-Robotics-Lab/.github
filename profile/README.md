@@ -11,6 +11,7 @@ The nexus for robotics education at Vanderbilt University
 ## In-Class Examples
 1. [basic_cpp_example](https://github.com/Vanderbilt-Applied-Robotics-Lab/basic_cpp_example)
 2. [publisher_subscriber_example](https://github.com/Vanderbilt-Applied-Robotics-Lab/publisher_subscriber_example)
+3. [eigen_and_launch_example](https://github.com/Vanderbilt-Applied-Robotics-Lab/eigen_and_launch_example)
 
 ## Take-Home Assignment Solutions
 Solutions will be posted after due date
