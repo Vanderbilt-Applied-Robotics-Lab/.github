@@ -16,6 +16,7 @@ The nexus for robotics education at Vanderbilt University
 ## Take-Home Assignment Solutions
 Solutions will be posted after due date
 * [01_cpp_intro](https://github.com/Vanderbilt-Applied-Robotics-Lab/01_cpp_intro)
+* [02_publishers_and_subscribers](https://github.com/Vanderbilt-Applied-Robotics-Lab/02_publishers_and_subscribers)
 
 ## Lab Solutions
 Solutions will be posted after due date
