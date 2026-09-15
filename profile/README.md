@@ -17,6 +17,7 @@ The nexus for robotics education at Vanderbilt University
 Solutions will be posted after due date
 * [01_cpp_intro](https://github.com/Vanderbilt-Applied-Robotics-Lab/01_cpp_intro)
 * [02_publishers_and_subscribers](https://github.com/Vanderbilt-Applied-Robotics-Lab/02_publishers_and_subscribers)
+* [03_eigen_and_launch](https://github.com/Vanderbilt-Applied-Robotics-Lab/03_eigen_and_launch)
 
 ## Lab Solutions
 Solutions will be posted after due date
