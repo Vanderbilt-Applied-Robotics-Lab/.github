@@ -15,6 +15,8 @@ The nexus for robotics education at Vanderbilt University
 4. [URDF_example](https://github.com/Vanderbilt-Applied-Robotics-Lab/URDF_example)
 5. [KDL_example](https://github.com/Vanderbilt-Applied-Robotics-Lab/KDL_example)
 6. [transform_example](https://github.com/Vanderbilt-Applied-Robotics-Lab/transform_example)
+7. [ndi_tracker_and_error_example](https://github.com/Vanderbilt-Applied-Robotics-Lab/ndi_tracker_and_error_example)
+
 
 ## Take-Home Assignment Solutions
 Solutions will be posted after due date
