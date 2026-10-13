@@ -27,6 +27,7 @@ Solutions will be posted after due date
 * [04_URDF](https://github.com/Vanderbilt-Applied-Robotics-Lab/04_URDF)
 * [05_KDL](https://github.com/Vanderbilt-Applied-Robotics-Lab/05_KDL)
 * [06_transform_lookup](https://github.com/Vanderbilt-Applied-Robotics-Lab/06_transform_lookup)
+* [07_error_metrics](https://github.com/Vanderbilt-Applied-Robotics-Lab/07_error_metrics)
 
 ## Lab Solutions
 Solutions will be posted after due date
