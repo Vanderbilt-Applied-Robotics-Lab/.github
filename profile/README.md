@@ -17,6 +17,7 @@ The nexus for robotics education at Vanderbilt University
 6. [transform_example](https://github.com/Vanderbilt-Applied-Robotics-Lab/transform_example)
 7. [ndi_tracker_and_error_example](https://github.com/Vanderbilt-Applied-Robotics-Lab/ndi_tracker_and_error_example)
 8. [joint_space_control_example](https://github.com/Vanderbilt-Applied-Robotics-Lab/joint_space_control_example)
+9. [teleoperation_example](https://github.com/Vanderbilt-Applied-Robotics-Lab/teleoperation_example)
 
 
 ## Take-Home Assignment Solutions
