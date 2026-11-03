@@ -32,3 +32,5 @@ Solutions will be posted after due date
 * [06_transform_lookup](https://github.com/Vanderbilt-Applied-Robotics-Lab/06_transform_lookup)
 * [07_error_metrics](https://github.com/Vanderbilt-Applied-Robotics-Lab/07_error_metrics)
 * [08_jointspace_control](https://github.com/Vanderbilt-Applied-Robotics-Lab/08_jointspace_control)
+* [09_telemanipulation](https://github.com/Vanderbilt-Applied-Robotics-Lab/09_telemanipulation)
+* [10_Arun_registration](https://github.com/Vanderbilt-Applied-Robotics-Lab/10_Arun_registration)
