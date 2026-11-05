@@ -20,6 +20,7 @@ The nexus for robotics education at Vanderbilt University
 9. [teleoperation_example](https://github.com/Vanderbilt-Applied-Robotics-Lab/teleoperation_example)
 10. [registration_example](https://github.com/Vanderbilt-Applied-Robotics-Lab/registration_example)
 11. [path_planning_example](https://github.com/Vanderbilt-Applied-Robotics-Lab/path_planning_example)
+12. [mesh_obstacle_example](https://github.com/Vanderbilt-Applied-Robotics-Lab/mesh_obstacle_example)
 
 
 ## Take-Home Assignment Solutions
